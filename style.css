@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    font-style: inherit;
+    background-color: rgb(245, 231, 218);
+    font-size:40px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    margin-left:200px;
+    margin-right:200px;
+    background-color:rgb(247, 247, 175);
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    font-size:18px;
+    background-color:rgb(175, 247, 185);
+    border-color:black;
+    border-style:dotted;
+    border-width:5px;
+    margin-left:20px;
+    border-radius:20px;
+}
+
+.test_image_and_result{
+    border:3px solid rgb(223, 198, 176);
+    border-radius:10px;
+    background-color:
+    rgb(175, 227, 247);
+}
+b{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    font-size:20px; 
+}
