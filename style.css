@@ -29,9 +29,15 @@ button{
     border-radius:10px;
     background-color:
     rgb(175, 227, 247);
+    margin-top: 20px;
+    margin-bottom:10px;
+    
 }
 b{
     font-family: 'Montserrat', sans-serif;
     font-weight:bold;
     font-size:20px; 
+}
+.ordered-list{
+    padding-left:5px;
 }
